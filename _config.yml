@@ -1,0 +1,22 @@
+title: Your Name
+description: Data Enthusiast
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+# Social links (Minima supports these)
+github_username: your-github-username
+linkedin: https://www.linkedin.com/in/your-link/
+email: you@example.com
+phone: "+1 (555) 555-5555"
+
+# Minima skin
+minima:
+  skin: classic
+
+includes:
+  - head-custom.html
