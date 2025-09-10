@@ -1,49 +1,87 @@
 ---
-layout: page
-title: Your Name
+title: Dhananjay Sharma
 permalink: /
 ---
 
-### Aspiring Data Analyst  
-**Burlington, ON**  
-[LinkedIn]({{ site.linkedin }}) &nbsp;•&nbsp; [{{ site.email }}](mailto:{{ site.email }}) &nbsp;•&nbsp; {{ site.phone }}
+# Dhananjay Sharma
+Data Analyst ▪ Business Intelligence ▪ SQL Developer ▪ Power BI Analyst  
+
+📍 Oakville, ON, Canada  
+📧 [jayshar1312@gmail.com](mailto:jayshar1312@gmail.com) | 📞 +1-905-924-4920  
+🔗 [LinkedIn](http://www.linkedin.com/in/dhananjay-manoj-sharma-557827177)
 
 ---
 
-## Professional Summary
-Aspiring Data Analyst with strong foundations in data analysis, statistical modeling, and AI frameworks. Proficient in Python, SQL, and Power BI, with hands‑on experience in predictive modeling and geospatial analysis. Eager to tackle real‑world challenges and contribute as part of a collaborative, innovative data team.
+📝 **Professional Summary**  
+Results-driven Data Analyst with strong foundations in SQL, Python, R, and Power BI. Skilled in building automated ETL pipelines, predictive models, and interactive dashboards. Experienced with Azure Data Factory, Databricks, and Medallion Architecture, delivering actionable insights and improving efficiency across business functions.
 
-## Education
-**M.S. Big Data Analytics** — *Trent University, ON, Canada*  
+---
+
+🎓 **Education**  
+**M.Sc. Big Data Analytics**  
+*Trent University, Peterborough, Canada*  
 Sep 2023 – Dec 2024  
-- **GPA:** 4.0  
-- **Capstone Project:** NCC Client Atlas: Immigration Insights  
-- **AMOD Work Readiness Training Certificate**  
-- **Extracurriculars:** Trent Ambassador; Wayfinder and Greeter; Welcome Committee and Greeter
 
-**B.Eng. Computer Engineering** — *SPPU, Pune, India*  
-Jun 2019 – May 2023  
-- **CGPA:** 8.4/10, First Class with Distinction  
-- **Capstone Project:** Sign Language Translation using Deep Learning  
-- **Extracurriculars:** President, ACES; Alumni Student Coordinator; Student Placement Coordinator
+- Capstone Project: Speech Emotion Recognition  
+- Coursework: Statistical Modelling, AI, and Big Data Analytics  
 
-## Projects
-**Water Quality Analytics with Medallion Architecture** – *Databricks, Delta Live Tables*  
-Processed 1M+ water quality records; built gold‑layer KPIs and Power BI dashboards with geospatial mapping and decomposition trees.
+**B.Eng. Computer Science**  
+*Mumbai University, Mumbai, India*  
+Jun 2018 – Jul 2022  
 
-**Sales Pipeline Optimization** – *Azure ML, SQL, Power BI*  
-Built regression‑based forecasts and interactive dashboards to surface conversion bottlenecks.
+- Projects: Internet Web Archival, Social Media Analytics  
+- Leadership: Alumni Student Coordinator, Placement Coordinator  
 
-[View the Project on GitHub](https://github.com/your-github-username/your-repo)
+---
 
-## Certifications
-- Microsoft Certified: Power BI Data Analyst Associate (PL‑300) — 2025  
-- Databricks Certified Data Engineer Associate — *In progress*
+📜 **Certifications**  
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300), 06/2024  
+- HackerRank SQL Certified (Basic → Advanced + Gold Badge), 08–09/2024  
+- Machine Learning DL/NLP Bootcamp — Udemy, 01/2024  
+- Data Science with Python — Datacamp, 04/2024  
+- Advanced Excel — Codebasics, 06/2024  
 
-## Skills
-**Languages:** Python, SQL, R  
-**Analytics:** Pandas, NumPy, scikit‑learn, Power BI  
-**Data:** Azure Data Factory, Azure SQL, Databricks (Delta/Unity), Git
+---
 
-## Contact
-Open to roles in Data/Analytics. Reach out at [{{ site.email }}](mailto:{{ site.email }}) or [LinkedIn]({{ site.linkedin }}).
+💼 **Work Experience**
+
+**Junior Data Analyst** — RS Tech, Oakville, Canada *(Aug 2024 – Present)*  
+- Built and automated **end-to-end ETL pipelines** using Azure Data Factory, integrating data from multiple relational databases and reducing manual entry by **50%**.  
+- Implemented **Medallion Architecture pipelines** with Delta Live Tables and PySpark, improving reliability by **25%** and reducing processing time by **30%**.  
+- Designed and maintained **interactive Power BI reports** and advanced DAX-based models; applied **dynamic and static RLS/OLS** to ensure secure, role-based data access.  
+- Applied **query folding, query optimization, and DAX performance tuning** (via DAX Studio and Performance Analyzer), cutting report load times by **15%**.  
+- Implemented monitoring and recovery for ETL/reporting failures using **alerts, checkpoints, and error handling**, ensuring 99% uptime.  
+- Collaborated with finance, sales, and operations teams to identify KPIs, trends, and drivers, improving overall business performance tracking.  
+
+**Junior Analyst** — MDceutics, Mumbai, India *(Jul 2022 – Aug 2023)*  
+- Performed **DevOps analytics** by integrating JIRA, GitHub, and QTest; identified bottlenecks and improved sprint efficiency by **20%**.  
+- Designed and deployed **dashboards tracking 15+ KPIs** (sprint issues, lead time, automation coverage), improving deployment frequency by **5%** and sprint planning efficiency by **10%**.  
+- Utilized SQL to extract and analyze large-scale relational data, providing actionable insights into **product performance and revenue forecasts**.  
+- Built **ad-hoc reports** for leadership, highlighting risks and opportunities in development pipelines.  
+- Partnered with QA teams to improve **test automation coverage**, reducing manual testing cycles.  
+
+---
+
+🌟 **Projects**
+
+**Working Capital Optimization** — Azure, Databricks, Azure ML, Power BI  
+- Processed **1.5M+ AR/AP records** stored in Azure Data Lake.  
+- Conducted **EDA and feature engineering** to identify customer payment patterns.  
+- Developed regression models (Random Forest, Gradient Boosting, Linear Regression) with **95%+ accuracy**.  
+- Used **MLflow** for experiment tracking and reproducibility in Databricks.  
+- Integrated results into **Power BI dashboards** for real-time monitoring of weekly cash flows.  
+- Enabled finance teams to **reduce delayed receivables by 18%** and optimize working capital.  
+
+**Hydro Sense: Water Quality Analytics** — Azure SQL, Data Factory, Databricks, Power BI  
+- Designed a real-time pipeline to process **1M+ water quality sensor records** via Medallion Architecture.  
+- Automated ingestion using Azure Data Factory and cleansing via Delta Live Tables.  
+- Built **interactive Power BI dashboards** with Copilot-driven insights, geospatial mapping, slicers, and decomposition trees.  
+- Delivered **real-time alerts and seasonal water quality trends**, enabling proactive resource allocation.  
+- Improved reporting efficiency by **25%** and reduced manual preparation by **40%**.  
+
+**Optimized Sales & Customer Dashboard** — SQL, Power BI, DAX  
+- Integrated sales, customer, and product data from multiple sources using Power Query.  
+- Created relational models and KPIs (Total Revenue, Profit Margin, Customer Retention) using DAX.  
+- Built secure **interactive dashboards** with slicers, drill-through, and Row-Level Security (RLS).  
+- Reduced report load time by **30%** through query optimization and model tuning.  
+- Enhanced sales decision-making, driving a **15% increase in customer retention** and **20% improvement in regional sales performance**.  
