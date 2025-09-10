@@ -3,7 +3,6 @@ title: Dhananjay Sharma
 permalink: /
 ---
 
-# Dhananjay Sharma
 Data Analyst ▪ Business Intelligence ▪ SQL Developer ▪ Power BI Analyst  
 
 📍 Oakville, ON, Canada  
