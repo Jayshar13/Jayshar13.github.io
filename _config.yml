@@ -1,7 +1,7 @@
-title: Your Name
-description: Data Enthusiast
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+title: Dhananjay Sharma
+description: Data Analyst ▪ Business Intelligence ▪ SQL Developer ▪ Power BI Analyst
+baseurl: "" # leave blank unless you host under a subpath
+url: "https://jayshar13.github.io" # your site URL
 
 theme: minima
 
@@ -9,14 +9,15 @@ theme: minima
 markdown: kramdown
 
 # Social links (Minima supports these)
-github_username: your-github-username
-linkedin: https://www.linkedin.com/in/your-link/
-email: you@example.com
-phone: "+1 (555) 555-5555"
+github_username: Jayshar13
+linkedin: http://www.linkedin.com/in/dhananjay-manoj-sharma-557827177
+email: jayshar1312@gmail.com
+phone: "+1-905-924-4920"
 
 # Minima skin
 minima:
   skin: classic
 
+# Optional includes
 includes:
   - head-custom.html
