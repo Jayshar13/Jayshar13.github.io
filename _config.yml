@@ -1,23 +1,20 @@
-title: Dhananjay Sharma
-description: Data Analyst ▪ Business Intelligence ▪ SQL Developer ▪ Power BI Analyst
-baseurl: "" # leave blank unless you host under a subpath
-url: "https://jayshar13.github.io" # your site URL
+title: ""          # empty = no extra name in header
+description: ""    # empty = no tagline in footer
+baseurl: "" 
+url: "https://jayshar13.github.io"
 
 theme: minima
 
 # Build settings
 markdown: kramdown
 
-# Social links (Minima supports these)
-github_username: Jayshar13
-linkedin: http://www.linkedin.com/in/dhananjay-manoj-sharma-557827177
-email: jayshar1312@gmail.com
-phone: "+1-905-924-4920"
+# Social links (set blank if you don’t want them in footer)
+github_username: ""
+linkedin: ""
+email: ""
+phone: ""
 
 # Minima skin
 minima:
   skin: classic
 
-# Optional includes
-includes:
-  - head-custom.html
