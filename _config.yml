@@ -1,20 +1,23 @@
-title: ""          # empty = no extra name in header
-description: ""    # empty = no tagline in footer
+title: ""          # no title in header
+description: ""    # no tagline/footer text
 baseurl: "" 
-url: "https://jayshar13.github.io"
+url: "https://jayshar13.github.io"  # your site URL
 
 theme: minima
 
 # Build settings
 markdown: kramdown
 
-# Social links (set blank if you don’t want them in footer)
+# Remove navbar links
+header_pages: []
+
+# Disable social/footer info
 github_username: ""
 linkedin: ""
 email: ""
 phone: ""
 
-# Minima skin
+# Minima skin (keeps a clean look)
 minima:
   skin: classic
 
