@@ -22,7 +22,7 @@ Results-driven Data Analyst with strong foundations in SQL, Python, R, and Power
 *Trent University, Peterborough, Canada*  
 Sep 2023 – Dec 2024  
 
-- Capstone Project: Predictive modeling on Diabetes Data  
+- Capstone Project: Speech Emotion Recognition  
 - Coursework: Statistical Modelling, AI, and Big Data Analytics  
 
 **B.Eng. Computer Science**  
