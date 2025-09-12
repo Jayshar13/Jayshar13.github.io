@@ -1,7 +1,6 @@
 ---
 title: "Portfolio"
 layout: default
-permalink: /
 ---
 
 
