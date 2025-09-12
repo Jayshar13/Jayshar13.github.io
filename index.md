@@ -3,8 +3,9 @@ title: "Portfolio"
 layout: default
 permalink: /
 ---
+
 <div style="display:flex; align-items:flex-start; gap:20px; margin-top:10px;">
-  <img src="/image/imagewsp.jpeg" alt="Dhananjay Sharma" style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
+  <img src="/profileimage.jpeg" alt="Profile Photo" style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
   <div>
     <div style="font-weight:600; font-size:18px; margin-bottom:6px;">
       Data Analyst • Business Intelligence • SQL Developer • Power BI Analyst
@@ -17,6 +18,7 @@ permalink: /
     </div>
   </div>
 </div>
+
 
 
 Data Analyst ▪ Business Intelligence ▪ SQL Developer ▪ Power BI Analyst  
