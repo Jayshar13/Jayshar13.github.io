@@ -1,3 +1,8 @@
+---
+title: "Portfolio"
+layout: default
+permalink: /
+---
 
 
 Data Analyst ▪ Business Intelligence ▪ SQL Developer ▪ Power BI Analyst  
