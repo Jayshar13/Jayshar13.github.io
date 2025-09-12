@@ -3,6 +3,20 @@ title: "Portfolio"
 layout: default
 permalink: /
 ---
+<div style="display:flex; align-items:flex-start; gap:20px; margin-top:10px;">
+  <img src="/image/imagewsp.jpeg" alt="Dhananjay Sharma" style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
+  <div>
+    <div style="font-weight:600; font-size:18px; margin-bottom:6px;">
+      Data Analyst • Business Intelligence • SQL Developer • Power BI Analyst
+    </div>
+    <div>
+      📍 Oakville, ON, Canada <br>
+      📧 <a href="mailto:jayshar1312@gmail.com">jayshar1312@gmail.com</a> &nbsp;|&nbsp;
+      📞 +1-905-924-4920 &nbsp;|&nbsp;
+      🔗 <a href="http://www.linkedin.com/in/dhananjay-manoj-sharma-557827177">LinkedIn</a>
+    </div>
+  </div>
+</div>
 
 
 Data Analyst ▪ Business Intelligence ▪ SQL Developer ▪ Power BI Analyst  
