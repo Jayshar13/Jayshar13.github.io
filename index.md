@@ -1,7 +1,4 @@
----
-title: Dhananjay Sharma
-permalink: /
----
+
 
 Data Analyst ▪ Business Intelligence ▪ SQL Developer ▪ Power BI Analyst  
 
